@@ -10,8 +10,10 @@ Android Studio(Latest Version)
 ## PROGRAM:
 /*
 Program to pass the data between the activities using Intent.
+
 Developed by: Priya R
-Registeration Number : 212222040124
+
+Registration Number : 212222040124
 */
 
 ### activity_main.xml:
